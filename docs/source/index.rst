@@ -25,10 +25,23 @@ To overcome these issues, we present an asynchronous I/O framework that provides
    asyncapi
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Hello Async
 
    example
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Best Practice
+
+   bestpractice
+   debug
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Known Issues
+
+   issue
 
 .. toctree::
    :maxdepth: 2
